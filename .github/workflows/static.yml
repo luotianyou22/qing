@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="./css/style.css">
+		<title>个人博客</title>
+	</head>
+	<body>
+		<div class="top1 auto clearfix">
+			<p>个人博客</p>
+			<p class="clearfix">
+				<span>首页</span>
+				<span>登录</span>
+				<span>注册</span>
+			</p>
+		</div>
+		<ul class="cul auto clearfix">
+			<li><a href="">首页</a></li>
+			<li><a href="">我的说说</a></li>
+			<li><a href="">个人笔记</a></li>
+			<li><a href="">我的旅行</a></li>
+			<li><a href="">我的相册</a></li>
+			<li><a href="">我的视频</a></li>
+		</ul>
+		<div class="con1 auto clearfix">
+			<img src="./img/1.jpg" alt="">
+			<div>
+				本人性格开朗、踏实、稳重、有活力，待人热情、真诚。喜欢在空余的时间看书和听音乐，从中减轻平时学习中带来的压力，还可以学到书本中学不到的知识，开拓自己的眼界。积极并不断进取是我做事的原则，谦虚和谨慎是我的优点，懂得不断从生活和学习中提高和完善自己。
+			</div>
+		</div>
+		<h2 class="ch3">塔克拉玛干沙漠</h2>
+		<hr class="chr auto">
+		<p class="p1 auto">
+			塔克拉玛干沙漠 位于新疆南疆的塔里木盆地中心，是中国最大的沙漠，也是世界第十大沙漠，同时亦是世界第二大流动沙漠。整个沙漠东西长约1000公里，南北宽约400公里，面积达33万平方公里。
+		</p>
+		<div class="con2 auto clearfix">
+			<p class="clearfix"><img src="./img/2.jpg" alt=""><img src="./img/3.jpg" alt=""><img src="./img/4.jpg" alt=""><img src="./img/5.jpg" alt=""></p>
+			<p><img src="./img/6.jpg" alt=""></p>
+		</div>
+		<p class="p1 auto">
+			沙漠里亦有少量的植物，其根系异常发达，超过地上部分的几十倍乃至上百倍，以便汲取地下的水分，那里的动物有夏眠的现象。
+		</p>
+		<div class="con2 auto clearfix">
+			<p class="clearfix"><img src="./img/7.jpg" alt=""><img src="./img/8.jpg" alt=""><img src="./img/9.jpg" alt=""><img src="./img/10.jpg" alt=""></p>
+			<p><img src="./img/11.jpg" alt=""></p>
+		</div>
+		<div class="con3 auto">
+			<p class="p2">
+				网友留言
+			</p>
+		</div>
+		<hr class="chr auto">
+		<div class="con4 auto">
+			<div class="clearfix">
+				<img src="./img/12.jpg" alt="">
+				<div>
+					<p>
+						<span>牛奶</span>
+						<span>2019-08-02</span>
+					</p>
+					<p>
+						太喜欢了，非常赞，哈哈哈
+					</p>
+				</div>
+			</div>
+			<div class="clearfix">
+				<img src="./img/13.jpg" alt="">
+				<div>
+					<p>
+						<span>茉莉</span>
+						<span>2019-01-05</span>
+					</p>
+					<p>
+						我也想去沙漠看看
+					</p>
+				</div>
+			</div>
+			<div class="clearfix">
+				<img src="./img/14.jpg" alt="">
+				<div>
+					<p>
+						<span>咖啡</span>
+						<span>2019-01-03</span>
+					</p>
+					<p>
+						我非常喜欢沙漠
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="footer">
+			<p>联系电话；15116693379</p>
+			<p>地址：湖南省永州市零陵区</p>
+			
+		</div>
+	</body>
+</html>
